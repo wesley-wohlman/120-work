@@ -36,6 +36,7 @@ function draw() {
     fill('brown');
     stroke('brown');
     triangle(80,80,37,105,35,5)
+    triangle(120,80,163,105,165,5)
     pop();
     //create eyes
     push();
