@@ -1,5 +1,5 @@
-# Empty p5 sketch.
+Wesley Wohlman
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+[Hello World! Sketch](https://wesley-wohlman.github.io/120-work/hw-3/)
 
-Current p5 version -> 0.7.1
+Nothing to comment of note. I simply followed the directions.
